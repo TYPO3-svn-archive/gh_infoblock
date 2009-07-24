@@ -1,0 +1,14 @@
+2009-07-24 Gregor Hermens  <gregor@a-mazing.de>
+
+  * release of version 0.2.1
+  * added _CSS_DEFAULT_STYLE
+  * added documentation
+
+2009-7-24 Gregor Hermens  <gregor@a-mazing.de>
+
+  * release of version 0.2.0, first upload to TER
+  * added support for lorem_ipsum
+
+2009-07-20 Gregor Hermens  <gregor@a-mazing.de>
+
+	* initial code generated with kickstarter

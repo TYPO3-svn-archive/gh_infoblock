@@ -1,0 +1,35 @@
+tt_content.stdWrap {
+	outerWrap = <div class="tx_ghinfoblock_all"><div class="tx_ghinfoblock_content">|<br class="tx_ghinfoblock_clear" /></div>
+	postCObject = COA
+	postCObject {
+		10 = TEXT
+		10.value = </div>
+		20 = TEXT
+		20 {
+			wrap = <div class="tx_ghinfoblock_infoblock">|</div>
+			required = 1
+			field = tx_ghinfoblock_infoblock
+			parseFunc = < lib.parseFunc_RTE
+		}
+	}
+}
+
+plugin.tx_ghinfoblock._CSS_DEFAULT_STYLE (
+	#content .tx_ghinfoblock_all {
+	  width: 100%;
+  }
+
+  #content .tx_ghinfoblock_content {
+	  width: 65%;
+	  float: left;
+  }
+
+  #content .tx_ghinfoblock_infoblock {
+	  width: 30%;
+  	float: right;
+  }
+
+  #content .tx_ghinfoblock_clear {
+	  clear: both;
+  }
+)
