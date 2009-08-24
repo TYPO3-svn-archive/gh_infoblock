@@ -3,7 +3,7 @@
 ########################################################################
 # Extension Manager/Repository config file for ext: "gh_infoblock"
 #
-# Auto generated 24-07-2009 12:14
+# Auto generated 24-08-2009 19:15
 #
 # Manual updates:
 # Only the data in the array - anything else is removed by next write.
@@ -29,7 +29,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'clearCacheOnLoad' => 1,
 	'lockType' => '',
 	'author_company' => '',
-	'version' => '0.2.1',
+	'version' => '0.3.0',
 	'constraints' => array(
 		'depends' => array(
 			'cms' => '',
@@ -40,7 +40,7 @@ $EM_CONF[$_EXTKEY] = array(
 		'suggests' => array(
 		),
 	),
-	'_md5_values_when_last_written' => 'a:11:{s:9:"ChangeLog";s:4:"b777";s:10:"README.txt";s:4:"ee2d";s:12:"ext_icon.gif";s:4:"ba2b";s:14:"ext_tables.php";s:4:"b5b0";s:14:"ext_tables.sql";s:4:"52ed";s:16:"locallang_db.xml";s:4:"fe7d";s:30:"static/infoblock/constants.txt";s:4:"d41d";s:26:"static/infoblock/setup.txt";s:4:"3b87";s:14:"doc/manual.sxw";s:4:"8134";s:19:"doc/wizard_form.dat";s:4:"85ce";s:20:"doc/wizard_form.html";s:4:"8986";}',
+	'_md5_values_when_last_written' => 'a:11:{s:9:"ChangeLog";s:4:"8395";s:10:"README.txt";s:4:"ee2d";s:12:"ext_icon.gif";s:4:"ba2b";s:14:"ext_tables.php";s:4:"b5b0";s:14:"ext_tables.sql";s:4:"52ed";s:16:"locallang_db.xml";s:4:"fe7d";s:30:"static/infoblock/constants.txt";s:4:"d41d";s:26:"static/infoblock/setup.txt";s:4:"0aa1";s:14:"doc/manual.sxw";s:4:"c5ac";s:19:"doc/wizard_form.dat";s:4:"85ce";s:20:"doc/wizard_form.html";s:4:"8986";}',
 	'suggests' => array(
 	),
 );
