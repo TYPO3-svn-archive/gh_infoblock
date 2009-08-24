@@ -1,3 +1,9 @@
+2009-08-24 Gregor Hermens  <gregor@a-mazing.de>
+
+  * release of version 0.3.0
+  * switched order of info block and content
+  * changed _CSS_DEFAULT_STYLE so content uses whole width if there is no info block
+
 2009-07-24 Gregor Hermens  <gregor@a-mazing.de>
 
   * release of version 0.2.1
